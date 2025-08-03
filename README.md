@@ -12,3 +12,9 @@ The project helped me understand:
 💡 Tools used: STM32CubeMX, STM32CubeIDE, HAL drivers
 
 This project was created as part of my STM32 programming practice.
+
+## Youtube
+
+The video of working code:
+
+Link: https://www.youtube.com/watch?v=t6-i-rm2uXg
