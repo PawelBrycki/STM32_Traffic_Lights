@@ -5,7 +5,9 @@ his project is a basic simulation of traffic lights using an STM32 Nucleo board 
 The project helped me understand:
 
 -> How to configure GPIO pins in output mode using STM32CubeMX and HAL
+
 -> How to toggle LEDs based on simple logic
+
 -> The basic project structure for STM32 applications
 
 🛠️ Platform: STM32 Nucleo-G071RB
